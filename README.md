@@ -9,7 +9,7 @@ The main objective of this study is to map stars from the HYG catalog into an HR
 ## Visual Output
 The generated diagram illustrates the relationship between temperature and luminosity, featuring spectral class mapping on the top axis.
 
-![HR Diagram](output/HR-Diagram.png)
+![HR Diagram](src/data/output/HR-Diagram.png)
 
 ## Installation & Usage
 1. Clone the repository:
